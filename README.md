@@ -1,14 +1,21 @@
-### Hi, I'm Bakht Muhammad 👋
+# 👋 Hi, I’m Bakht Muhammad
+👀 I’m interested in full-stack development
+🌱 I’m currently learning AI | Deep Learning | Flutter block pattern
 
 
-Here are some ideas to get you started:
+## Who is Bakht ❔
+Mr. Bakht is a software developer hailing from Pakistan. He is working as a flutter developer and flutter mentor at Augersoft company. He leads the Augersoft Training program for interns in flutter development. Mr. Bakht is an experienced and forward-looking software engineer with a 2+ years of background in creating flutter apps. He has extensive knowledge in front-end UI/UX back-end mobile payment integration.
 
-- 🔭 I’m currently working on ... Flutter
-- 🌱 I’m currently learning ... AI
-- 👯 I’m looking to collaborate on ... Google
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... bakhtkhilji23@gmail.com
-- 😄 Pronouns: ... Mazloom
-- ⚡ Fun fact: ... Development 
--->
+
+## Why Bakht ❔
+What separates Bakht from the rest? He is:
+
+
+A doer. Period. A believer in Less talk and more work.
+Never settles. Always finds ways to improve.
+Pro-active.
+Not afraid to apply new knowledge on the go
+
+
+## Hire Bakht! ✅
+Feel free to contact him @ bakhtkhilji23@gmail.com
