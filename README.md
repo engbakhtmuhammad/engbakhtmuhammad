@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Bakht Muhammad
-👀 I’m interested in full-stack development
+👀 I’m interested in full-stack development.
 🌱 I’m currently learning AI | Deep Learning | Flutter block pattern
 
 
