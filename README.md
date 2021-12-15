@@ -1,6 +1,7 @@
+<img width="1274" alt="Bakht_Banner" src="https://user-images.githubusercontent.com/55682574/146173645-536f7f7c-a28d-4bbc-9b80-1ba1825c53be.png">
+
 # 👋 Hi, I’m Bakht Muhammad
 👀 I’m interested in full-stack development.
-
 🌱 I’m currently learning AI | Deep Learning | Flutter block pattern
 
 
