@@ -5,10 +5,10 @@
 
 <div align="center">
     
-[![Twitter Badge](https://img.shields.io/badge/-MZ_Shaikh18-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/mz_shaikh18)](https://twitter.com/BakhtMu74007949)
-[![Linkedin Badge](https://img.shields.io/badge/-princeshaikh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/princeshaikh/)](https://www.linkedin.com/in/bakht-muhammad-a7458515a/)
-[![Gmail Badge](https://img.shields.io/badge/-mzshaikh129@gmail.com-blue?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mzshaikh129@gmail.com&color=rgb(234,67,53))](mailto:engbakhtmuhammad@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-MZ_Shaikh-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCY-T6D6jgHutVeSUr42zrSA&color=rgb(234,67,53))](https://www.youtube.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/BakhtMu74007949)](https://twitter.com/BakhtMu74007949)
+[![Linkedin Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bakht-muhammad-a7458515a/)](https://www.linkedin.com/in/bakht-muhammad-a7458515a/)
+[![Gmail Badge](https://img.shields.io/badge/-engbakhtmuhammad@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:engbakhtmuhammad@gmail.com&color=rgb(234,67,53))](mailto:engbakhtmuhammad@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Bakht_Muhammad-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/&color=rgb(234,67,53))](https://www.youtube.com/)
 </div>
 
 <h2>About Me</h2>
