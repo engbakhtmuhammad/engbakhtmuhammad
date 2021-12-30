@@ -50,9 +50,10 @@ Not afraid to apply new knowledge on the go
    <a href="https://github.com/bakhtkhilji23/Beats_Studio "> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/budsStudioAppShot.png"/> </a>
    <a href="https://github.com/bakhtkhilji23/World_Touring_UI" > <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/TouringAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Streaming_UI" ><img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/animeAppShot.png"/></a>
-   <a href="https://github.com/bakhtkhilji23/Chat_UI" ><img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Shoping_UI"> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/upperAppShot.png"/></a>
-     <a href="https://github.com/bakhtkhilji23/"> <img src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/5400455.jpg.png"/></a>
+     <a href="https://github.com/bakhtkhilji23/"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/5400455.jpg.png"/></a>
+    
+    <a href="https://github.com/bakhtkhilji23/Chat_UI" ><img width="100%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
     
 </div>
 
