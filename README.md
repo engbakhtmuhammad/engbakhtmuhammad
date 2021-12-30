@@ -19,14 +19,11 @@
 - 🌱 I’m currently exploring new technologies | learning Deep and Machine Learning
 
 ## Technologies & Languages I Use
-- Flutter
-- Python
-- Java
-- C++
-- Javascript
-- Dart
-- Firebase
-- MySQL
+- Flutter   |   - Dart
+- Java      |   - C++
+- Javascript|   - Python
+- Firebase  |   - MySQL
+
 
 <h2>Profile Stats:</h2>
 <p align="center">
@@ -55,6 +52,7 @@ Not afraid to apply new knowledge on the go
    <a href="https://github.com/bakhtkhilji23/Streaming_UI" ><img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/animeAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Chat_UI" ><img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Shoping_UI"> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/upperAppShot.png"/></a>
+     <a href="https://github.com/bakhtkhilji23/"> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/5400455.jpg"/></a>
     
 </div>
 
