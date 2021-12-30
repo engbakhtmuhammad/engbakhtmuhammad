@@ -49,17 +49,16 @@ Not afraid to apply new knowledge on the go
   <a href="https://github.com/bakhtkhilji23/Land_of_Dreams"> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
    <a href="https://github.com/bakhtkhilji23/Beats_Studio "> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/budsStudioAppShot.png"/> </a>
    <a href="https://github.com/bakhtkhilji23/World_Touring_UI" > <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/TouringAppShot.png"/></a>
+      <a href="https://github.com/bakhtkhilji23/Facebook_Clone"> <img width="49%"  src=""/></a>
+     <a href="https://github.com/bakhtkhilji23/symptom_checker"> <img width="49%"  src=""/></a>
    <a href="https://github.com/bakhtkhilji23/Streaming_UI" ><img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/animeAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Shoping_UI"> <img width="49%" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/upperAppShot.png"/></a>
      <a href="https://github.com/bakhtkhilji23/"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/5400455.jpg.png"/></a>
-      <a href="https://github.com/bakhtkhilji23/SmartHomePageUI"> <img width="49%"  src=""/></a>
-     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="49%"  src=""/></a>
-     <a href=""> <img width="49%"  src=""/></a>
-     <a href=""> <img width="49%"  src=""/></a>
-     <a href=""> <img width="49%"  src=""/></a>
-     <a href=""> <img width="49%"  src=""/></a>
-    
     <a href="https://github.com/bakhtkhilji23/Chat_UI"> <img   src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
+    <a href="https://github.com/bakhtkhilji23/SmartHomePageUI"> <img width="49%"  src=""/></a>
+     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="49%"  src=""/></a>
+    <a href="https://github.com/bakhtkhilji23/squeez_game"> <img width="49%"  src=""/></a>
+     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="49%"  src=""/></a>
     
 </div>
 
