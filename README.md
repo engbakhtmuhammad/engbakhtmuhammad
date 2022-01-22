@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm Bakht Muhammad <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>👨‍💻</h1>
 
-<img width="100%" alt="Bakht_Banner" src="https://user-images.githubusercontent.com/55682574/146173645-536f7f7c-a28d-4bbc-9b80-1ba1825c53be.png">
+<img width="100%" alt="Bakht_Banner" src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/BannerShot.png">
 
 <div align="center">
     
