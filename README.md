@@ -46,12 +46,14 @@ Not afraid to apply new knowledge on the go
 ## My Flutter Work 💻 💼
 
 <div align="center">
-    <a href="https://github.com/bakhtkhilji23/Facebook_Clone"> <img width="49%" height="40%"   src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/Facebook.png"/></a>
-     <a href="https://github.com/bakhtkhilji23/symptom_checker"> <img width="49%" height="40%"   src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SymptomChecker.png"/></a>
-  <a href="https://github.com/bakhtkhilji23/Land_of_Dreams"> <img width="49%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
-   <a href="https://github.com/bakhtkhilji23/Beats_Studio "> <img width="49%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/budsStudioAppShot.png"/> </a>
+    <a href="https://github.com/bakhtkhilji23/Facebook_Clone"> <img width="49%"
+ src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/Facebook.png"/></a>
+     <a href="https://github.com/bakhtkhilji23/symptom_checker"> <img width="49%"    src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SymptomChecker.png"/></a>
+  <a href="https://github.com/bakhtkhilji23/Land_of_Dreams"> <img width="49%"   src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/LandOfDreamsUiShot.png"/> </a>
+   <a href="https://github.com/bakhtkhilji23/Beats_Studio "> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/budsStudioAppShot.png"/> </a>
    <a href="https://github.com/bakhtkhilji23/World_Touring_UI" > <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/TouringAppShot.png"/></a>
-   <a href="https://github.com/bakhtkhilji23/Streaming_UI" ><img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/animeAppShot.png"/></a>
+   <a href="https://github.com/bakhtkhilji23/Streaming_UI" ><img width="49%" 
+ src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/animeAppShot.png"/></a>
    <a href="https://github.com/bakhtkhilji23/Shoping_UI"> <img width="49%" 
  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/upperAppShot.png"/></a>
      <a href="https://github.com/bakhtkhilji23/"> <img width="49%" 
@@ -60,8 +62,8 @@ Not afraid to apply new knowledge on the go
  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
     <a href="https://github.com/bakhtkhilji23/SmartHomePageUI"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SmartHomePageUI.png"/></a>
     <a href="https://github.com/bakhtkhilji23/squeez_game"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SqueezeCaneShot.png"/></a>
-     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="38%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/FlutterChatDemo.gif"/></a>
-    <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="60%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/tutorshot.png"/></a>
+     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="38%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/FlutterChatDemo.gif"/></a>
+    <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="60%"   src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/tutorshot.png"/></a>
     
 </div>
 
