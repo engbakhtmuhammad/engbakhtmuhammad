@@ -59,9 +59,9 @@ Not afraid to apply new knowledge on the go
     <a href="https://github.com/bakhtkhilji23/Chat_UI"> <img   
  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/chatAppShot.png"/></a>
     <a href="https://github.com/bakhtkhilji23/SmartHomePageUI"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SmartHomePageUI.png"/></a>
-     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="98%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/FlutterChatDemo.gif"/></a>
     <a href="https://github.com/bakhtkhilji23/squeez_game"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/SqueezeCaneShot.png"/></a>
-     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="49%"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/tutorshot.png"/></a>
+     <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="38%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/FlutterChatDemo.gif"/></a>
+    <a href="https://github.com/bakhtkhilji23/GoogleAuthChatApp"> <img width="60%" height="300"  src="https://github.com/bakhtkhilji23/bakhtkhilji23/blob/main/portfolio/tutorshot.png"/></a>
     
 </div>
 
