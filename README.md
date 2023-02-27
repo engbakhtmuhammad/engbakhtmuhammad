@@ -27,8 +27,8 @@
 
 <h2>Profile Stats:</h2>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bakhtkhilji23&show_icons=true&theme=gruvbox" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bakhtkhilji23&theme=gruvbox" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engbakhtmuhammad&show_icons=true&theme=gruvbox" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engbakhtmuhammad&theme=gruvbox" />
 </p>
 
 
