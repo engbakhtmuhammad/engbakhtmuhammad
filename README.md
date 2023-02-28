@@ -37,10 +37,10 @@
 </div>
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engbakhtmuhammad&show_icons=true&theme=monokai" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engbakhtmuhammad&theme=monokai" />
-</p>
+</p> -->
 
 
 ## Hire Bakht! ✅
