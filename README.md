@@ -34,8 +34,9 @@
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engbakhtmuhammad&theme=monokai"/></p>
 <p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engbakhtmuhammad&theme=monokai"/>
 <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engbakhtmuhammad&theme=monokai&utcOffset=8"/></p>
+</div>
 
-<!-- </div>
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engbakhtmuhammad&show_icons=true&theme=monokai" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engbakhtmuhammad&theme=monokai" />
