@@ -29,11 +29,11 @@
 <div align="center">
 
 
-<img width="98" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbakhtmuhammad&theme=monokai"/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbakhtmuhammad&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engbakhtmuhammad&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engbakhtmuhammad&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engbakhtmuhammad&theme=monokai&utcOffset=8)
+<p align="center"><img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbakhtmuhammad&theme=monokai"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbakhtmuhammad&theme=monokai"/>
+<img width="4949%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engbakhtmuhammad&theme=monokai"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engbakhtmuhammad&theme=monokai"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engbakhtmuhammad&theme=monokai&utcOffset=8"/></p>
 
 </div>
 <p align="center">
