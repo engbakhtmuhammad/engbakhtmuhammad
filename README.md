@@ -26,6 +26,11 @@
 
 
 <h2>Profile Stats:</h2>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engbakhtmuhammad&show_icons=true&theme=monokai" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engbakhtmuhammad&theme=monokai" />
