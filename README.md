@@ -29,11 +29,11 @@
 <div align="center">
 
 
-<p align="center"><img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbakhtmuhammad&theme=buefy"/></p>
-<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbakhtmuhammad&theme=buefy"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engbakhtmuhammad&theme=buefy"/></p>
-<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engbakhtmuhammad&theme=buefy"/>
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engbakhtmuhammad&theme=buefy&utcOffset=8"/></p>
+<p align="center"><img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engbakhtmuhammad&theme=swift"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=engbakhtmuhammad&theme=swift"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=engbakhtmuhammad&theme=swift"/></p>
+<p align="center"><img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=engbakhtmuhammad&theme=swift"/>
+<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engbakhtmuhammad&theme=swift&utcOffset=8"/></p>
 </div>
 
 
