@@ -5,7 +5,7 @@
 
 <div align="center">
     
-[![Twitter Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/engbakhtmuhammad)](https://twitter.com/engbakhtmuhammad)
+[![Twitter Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/engbakhtmuhamad)](https://twitter.com/engbakhtmuhamad)
 [![Linkedin Badge](https://img.shields.io/badge/-Bakht_Muhammad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engbakhtmuhammad/)](https://www.linkedin.com/in/engbakhtmuhammad/)
 [![Gmail Badge](https://img.shields.io/badge/-engbakhtmuhammad@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:engbakhtmuhammad@gmail.com&color=rgb(234,67,53))](mailto:engbakhtmuhammad@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Bakht_Muhammad-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/&color=rgb(234,67,53))](https://www.youtube.com/@engbakhtmuhammad)
