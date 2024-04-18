@@ -12,7 +12,11 @@
 </div>
 
 <h2>About Me</h2>
-<p align="left">I'm a freelance Flutter Developer and graduated as software engineer from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. Experienced and forward-looking software engineer with a 2+ years of background in creating flutter apps. I Have extensive knowledge in front-end UI/UX back-end mobile payment integration..</p>
+<p align="left">As a distinguished freelance Flutter Developer, I bring forth a robust foundation in software engineering, fortified by my prestigious graduation from <a href="http://www.buitms.edu.pk/">BUITEMS</a>. With over 4 years of hands-on experience in crafting cutting-edge Flutter applications integrated seamlessly with APIs, my expertise extends to proficiently integrating mobile payment solutions. Renowned for my forward-thinking approach and meticulous attention to detail, I adhere to industry-leading practices, employing MVC, MVVM, and state management techniques like Bloc, Provider, and GetX to ensure impeccably structured and scalable codebases.
+
+My versatility extends beyond Flutter development, encompassing a comprehensive understanding of front-end UI/UX design and back-end systems. I possess a wealth of knowledge in web development, database management, and even delve into the realm of Machine Learning. Leveraging my experience as a Lab Engineer at <a href="http://nbc.nust.edu.pk/">NUST</a>, coupled with my background in teaching, I bring a unique blend of practical expertise and pedagogical acumen to any project or team.
+
+My portfolio speaks volumes, showcasing a diverse array of apps spanning various domains, all distinguished by their intuitive design and impeccable functionality. Whether it's crafting intuitive user interfaces or architecting robust backend systems, I possess the skillset and dedication to deliver unparalleled results. With an unwavering commitment to excellence and a passion for innovation, I am poised to elevate any team or organization to new heights of success.</p>
 
 ## My Intrests
 - 👀 Flutter Design | Full Stack Development | iOS/App Development | UI Design
